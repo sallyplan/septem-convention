@@ -200,7 +200,7 @@ background-position: 50%;
 - 스크립트 기능이 들어간 클래스의 경우 `_js`를 사용하며 해당 클래스는 스타일을 적용하지 않습니다.
 - 상태를 정의할때는`_o`를 추가합니다. ex) `_o_active`
 
-1. 예시
+	### 1시 예시
 	```css
 	.modal {}
 	.modal-inner {}
@@ -221,7 +221,6 @@ background-position: 50%;
 	`-group`, `-item`, `-list`, `-box`, `-sub`, `-side`, `-title`, `-desc`, `-cell`
 	`-info`, `-data`, `-link`, `-label`, `-unit`
 	
-	---
 
 	### 1.2 속상 값 적용시
 	```css
@@ -255,7 +254,7 @@ background-position: 50%;
 	> 2. `cs_[value]` : 변경되는 상태값을 의미한다.
 	> 
 
-	---
+	
 	### 1.3 별도 속성 값 적용시
 	```
 	.tc {}
